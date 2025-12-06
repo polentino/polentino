@@ -38,14 +38,15 @@ However, in the past years, I began to force myself into completing the projects
 * [redacted](https://github.com/polentino/redacted), a Scala `3.x` and `2.x` compiler plugin that prevents leaking
   sensitive fields defined inside case classes. Just annotate them with `@redacted` and boom, no more `email`, `age`,
   `apiKey` or any other PII/GDPR related data will be printed by mistake in a log or serialised into a response. It is
-  currently used in the Company im currently working with, [InvestSuite](https://www.investsuite.com/).
+  used in the Company I'm currently working with, [InvestSuite](https://www.investsuite.com/).
     * [sbt-redacted](https://github.com/polentino/sbt-redacted/), the plugin for [sbt](https://www.scala-sbt.org/) that
       does all the project configuration for you, setting the compiler plugin and injecting the correct dependencies.
 * [neovim-idea](https://github.com/neovim-idea/neovim-idea): a highly customized [neovim](https://neovim.io/) setup that
   is aimed to resemble the UI/UX [IntellIJ Idea](https://www.jetbrains.com/idea) as much as possible, with a focus on
   Scala and Java development.
 
-On the scrapes of leftover time, I try to contribute back to OSS by submitting patches and improvements.
+On the scrapes of leftover time, I like to review technical books at [Manning](https://www.manning.com), and also try to
+contribute back to OSS by submitting patches and improvements.
 
 ### Work experience
 
